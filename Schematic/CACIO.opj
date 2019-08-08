@@ -1,0 +1,193 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB - PSpice")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\oh0.olb"
+        (Type "Schematic Library")))
+    (File ".\cacio.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "TRUE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File"
+       "D:\Dropbox\CMS\GEM\CACIO\Layout\cacio.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ORCAD")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    ("Allegro Netlist Input Board File"
+       "D:\Dropbox\CMS\GEM\CACIO\Layout\cacio.brd"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User))
+    (Folder "Simulation Profiles"))
+  (PartMRUSelector
+    (TE/282834-2
+      (FullPartName "TE/282834-2.Normal")
+      (LibraryName "D:\DROPBOX\CMS\GEM\CACIO\SCHEMATIC\OH0.OLB")
+      (DeviceIndex "0"))
+    (TE/1986712-2
+      (FullPartName "TE/1986712-2.Normal")
+      (LibraryName "D:\DROPBOX\CMS\GEM\CACIO\SCHEMATIC\OH0.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "D:\DROPBOX\CMS\GEM\CACIO\SCHEMATIC\OH0.OLB")
+      (DeviceIndex "0"))
+    (ADUM717X
+      (FullPartName "ADUM717X.Normal")
+      (LibraryName "D:\DROPBOX\CMS\GEM\CACIO\SCHEMATIC\OH0.OLB")
+      (DeviceIndex "0"))
+    (VTRX+_HEADER
+      (FullPartName "VTRX+_HEADER.Normal")
+      (LibraryName "D:\DROPBOX\CMS\GEM\CACIO\SCHEMATIC\OH0.OLB")
+      (DeviceIndex "0"))
+    (VCC_CIRCLE
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC_ARROW
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "D:\DROPBOX\CMS\GEM\OH0\SCHEMATIC\OH0.OLB")
+      (DeviceIndex "0"))
+    (MIC69502
+      (FullPartName "MIC69502.Normal")
+      (LibraryName "D:\DROPBOX\CMS\GEM\OH0\SCHEMATIC\OH0.OLB")
+      (DeviceIndex "0"))
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName "D:\DROPBOX\CMS\GEM\OH0\SCHEMATIC\OH0.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "D:\DROPBOX\CMS\GEM\CACIO\SCHEMATIC\OH0.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (DF40C-40DP-0.4V
+      (FullPartName "DF40C-40DP-0.4V.Normal")
+      (LibraryName "D:\DROPBOX\CMS\GEM\CACIO\SCHEMATIC\OH0.OLB")
+      (DeviceIndex "0"))
+    (UEC5-019-2_x4
+      (FullPartName "UEC5-019-2_x4.Normal")
+      (LibraryName "D:\DROPBOX\CMS\GEM\CACIO\SCHEMATIC\OH0.OLB")
+      (DeviceIndex "0"))
+    (UCC8-010-1-H-S-1-A
+      (FullPartName "UCC8-010-1-H-S-1-A.Normal")
+      (LibraryName "D:\DROPBOX\CMS\GEM\CACIO\SCHEMATIC\OH0.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "d:\dropbox\cms\gem\cacio\schematic\cacio.dsn")
+      (Path "Design Resources" "d:\dropbox\cms\gem\cacio\schematic\cacio.dsn"
+         "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "d:\dropbox\cms\gem\cacio\schematic\oh0.olb")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -9 -36 0 1090 0 1112"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -36 540 2684 540 1697")
+        (Scroll "0 0")
+        (Zoom "195")
+        (Occurrence "/"))
+      (Path "D:\DROPBOX\CMS\GEM\CACIO\SCHEMATIC\CACIO.DSN")
+      (Schematic "CACIO")
+      (Page "Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -36 90 3280 90 1247")
+        (Scroll "-480 0")
+        (Zoom "207")
+        (Occurrence "/"))
+      (Path "D:\DROPBOX\CMS\GEM\CACIO\SCHEMATIC\CACIO.DSN")
+      (Schematic "CACIO")
+      (Page "Firefly"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -36 120 3310 120 1277")
+        (Scroll "-495 291")
+        (Zoom "195")
+        (Occurrence "/"))
+      (Path "D:\DROPBOX\CMS\GEM\CACIO\SCHEMATIC\CACIO.DSN")
+      (Schematic "CACIO")
+      (Page "VLPLUS"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 150 3336 150 1303"))
+      (Path "D:\DROPBOX\CMS\GEM\CACIO\SCHEMATIC\OH0.OLB")
+      (Package "VTRX+_HEADER")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 180 3366 180 1333"))
+      (Path "D:\DROPBOX\CMS\GEM\CACIO\SCHEMATIC\OH0.OLB")
+      (Package "TE/1986712-2")
+      (PartType "1"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -9 -36 240 3430 240 1397"))
+      (Path "D:\DROPBOX\CMS\GEM\CACIO\SCHEMATIC\OH0.OLB")
+      (Package "TE/282834-2")
+      (PartType "1")))
+  (MPSSessionName "CMS")
+  (ISPCBBASICLICENSE "false"))
